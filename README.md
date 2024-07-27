@@ -13,7 +13,8 @@
 - Make sure you are creating this repository from the github account which is authorised to `Gitpod`
 ---
 - Now go back to [Gitpod](https://gitpod.io/workspaces)
-- Paste the below command there
+- Paste your copied `Github Repository` link and configure
+- Paste the below command in terminal
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/simple-contract.sh && chmod +x simple-contract.sh && ./simple-contract.sh
 ```
