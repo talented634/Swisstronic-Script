@@ -101,8 +101,11 @@ echo
 npx hardhat run scripts/deploy.js --network swisstronik
 echo
 
-print_blue "Simple Contract deployment successful, Copy the above contract address"
+print_blue "Simple Contract deployment successful, Copy the above contract address and save it somewhere, you need to submit it in Testnet website"
 sed -i 's/0x[0-9a-fA-F]*,\?\s*//g' hardhat.config.js
 echo
 print_blue "PRIVATE_KEY has been removed from hardhat.config.js."
+echo
+print_blue "Pushing these files to your github Repo link"
+git add . && git commit -m "Initial commit" && git push origin main
 echo
