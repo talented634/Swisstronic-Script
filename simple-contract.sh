@@ -11,7 +11,7 @@ prompt_for_input() {
 
 print_blue "Installing Hardhat and necessary dependencies..."
 echo
-npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox dotenv
+npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 echo
 
 print_blue "Initializing Hardhat project..."
