@@ -1,4 +1,4 @@
-# Swisstronic-Script
+<h1 align="center"> Swisstronic-Script </h1>
 
 ### Task 1 : Simple Contract Deployment Script
 - First, open [Gitpod](https://gitpod.io/workspaces)
