@@ -49,7 +49,7 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc20-to
 - Enable `public_repo` option then click on `Update Permissions`
 ---
 - Now go to `[Github](https://github.com/)
-- Create a repository and name it `Swisstronik 2` and copy the repository link and save it somewhere
+- Create a repository and name it `Swisstronik 3` and copy the repository link and save it somewhere
 - Make sure you are creating this repository from the github account which is authorised to `Gitpod`
 ---
 - Now go back to [Gitpod](https://gitpod.io/workspaces)
