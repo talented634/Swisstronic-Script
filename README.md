@@ -73,7 +73,7 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc721-n
 - Write your private key in the `Value` section
 - Write `*/*` in the `Scope` section
 ---
-- Now go to `[Github](https://github.com/)
+- Now go to [Github](https://github.com/)
 - Create a repository and name it `Swisstronik 4` and copy the repository link and save it somewhere
 - Make sure you are creating this repository from the github account which is authorised to `Gitpod`
 ---
