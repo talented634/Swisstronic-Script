@@ -79,6 +79,7 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc721-n
 ---
 - Now go back to [Gitpod](https://gitpod.io/workspaces)
 - Paste your copied `Github Repository` link and configure
+- If it take more than the usual time, you should try this on Incognito tab
 - Make sure to request $SWTR Faucet from [this site](https://faucet.testnet.swisstronik.com/)
 - Paste the below command in terminal
 ```bash
