@@ -85,4 +85,4 @@ wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc721-n
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/perc20.sh && chmod +x perc20.sh && ./perc20.sh
 ```
-- Now visit [Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your Token `Contract address`, `Transfer Hash` and `Github Repository Link`
+- Now visit [Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your Token `Contract address`, `Minting Hash` and `Github Repository Link`
